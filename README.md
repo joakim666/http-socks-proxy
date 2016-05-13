@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/joakim666/http-socks-proxy.svg)](https://travis-ci.org/joakim666/http-socks-proxy)
+
 # HTTP and SOCKS proxy
 
 A simple HTTP and SOCKS proxy based on combining the following two go libraries:
